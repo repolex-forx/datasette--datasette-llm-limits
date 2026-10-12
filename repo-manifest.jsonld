@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-llm-limits/commit/c083b1d9fa5a714f2ac7942591fc917a3b82f2f1",
       "git:hexsha": "c083b1d9fa5a714f2ac7942591fc917a3b82f2f1",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.1a2"
     },
     {
